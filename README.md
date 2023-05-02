@@ -1,6 +1,6 @@
 # firstflutterapp
 
-A new Flutter project.
+A simple flutter project that shows randow english words which can be saved and checked later.
 
 ## Getting Started
 
